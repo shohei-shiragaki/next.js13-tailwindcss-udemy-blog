@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Next.js13をUdemyで学ぶ",
+      "content": "shincodeさんの教材でNext.js13を学んでいます。",
+      "create": "2022/07/14"
+    },
+    {
+      "id": "2",
+      "title": "JSONサーバー",
+      "content": "json-serverは、簡単にREST APIを構築できるツールです。ローカルマシン上にJSONファイルを置くだけで、RESTfulなAPIを作成し、GET、POST、PUT、DELETEなどのHTTPリクエストを使用してデータの取得、作成、更新、削除を行うことができます。json-serverを使用すると、サーバーサイドのプログラミング言語やデータベースを必要とせず、フロントエンドの開発者がAPIの動作をテストしたり、簡単なデモアプリケーションを作成するのに便利です。また、json-serverは簡単に拡張することができ、ルーティングの設定やフック機能を利用することで、より高度なAPIを作成することもできます。",
+      "create": "2022/07/16"
+    },
+    {
+      "id": "3",
+      "title": "test3",
+      "content": "test3",
+      "createdAd": "2024-09-15T14:34:17.081Z"
+    }
+  ]
+}
